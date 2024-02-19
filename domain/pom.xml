@@ -6,7 +6,7 @@
         <artifactId>ms-rodriguezesquivel</artifactId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
-    <groupId>org.example</groupId>
+    <groupId>com.codigo</groupId>
     <artifactId>domain</artifactId>
     <version>0.0.1</version>
     <name>Archetype - domain</name>
